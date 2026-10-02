@@ -1,0 +1,16 @@
+# Proprietary DeepLure Drive corpus -- must never be redistributed (rule 1)
+handloom_sarees/
+h2/
+submission/drive_grouping_output/drive_contact_sheets/
+
+# Public Kaggle dataset -- large, reproducible by re-downloading, not our content
+kaggle/
+
+# Local test/smoke-test artifacts (regenerable, not meant to be versioned)
+outputs/
+submission/__pycache__/
+__pycache__/
+*.pyc
+smoke_final_log.txt
+*.pt
+.claude/

@@ -1,0 +1,9 @@
+1. First do research why is this an issue ?
+2. What are the existing solutions ?
+3. What is the issue in them or why aren't they solving this according to requirements ?
+4.  How is the dataset, imbalance, minority classes ?
+5. Hard images ? 
+6. Some images are quite blurry due to camera movement, So need to preprocess them .
+7. 
+8.
+9. Evaluaitona and benchamarking strategy and metrics.
